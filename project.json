@@ -1,0 +1,47 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "-Wallpaper estilo Console + TYPING.\n-Creado con HTML, CSS y JS.\n-Si deseas que agrege alguna frase hazmelo saber.\n-Si deseas modificar alguna cosa dentro del código, no hay ningún problema solamente regalame un me gusta y un fav :)\n\n---------------------------------------IMPORTANTE------------------------------------------\n-Si tomas el codigo para fines economicos, la libreria usada esta prohibida por derechos de autor. \n-Solamente se permite para uso personal.\n\n--------------------------------------------------\n支持修改代码",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"newproperty" : 
+			{
+				"index" : 2,
+				"order" : 102,
+				"text" : "说明3",
+				"type" : "textinput",
+				"value" : "最后按提示修改即可"
+			},
+			"newproperty1" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "说明",
+				"type" : "textinput",
+				"value" : "修改代码右键在资源管理器打开"
+			},
+			"newproperty2" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "说明2",
+				"type" : "textinput",
+				"value" : "之后找到index.html"
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Technology" ],
+	"title" : "Code2",
+	"type" : "web",
+	"version" : 0
+}
